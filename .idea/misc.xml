@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.ant.test/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.ant/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.archive/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.coverage/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.http.apache/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.http.server/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.http.test/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.junit/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.pgm.test/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.pgm/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.ssh.apache.test/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.ssh.apache/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.test/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.jgit.ui/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c524f239-5e9d-4d45-b66c-2e9c611eec79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_junit_5_3_0_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_3_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_pgm_5_3_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/org.eclipse.jgit.junit.http.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/org.eclipse.jgit.junit.http.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/src/org/eclipse/jgit/junit/http/HttpTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/src/org/eclipse/jgit/junit/http/HttpTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/.settings/org.eclipse.mylyn.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/org.eclipse.jgit.junit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/src/org/eclipse/jgit/junit/Assert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/src/org/eclipse/jgit/junit/JGitTestUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/src/org/eclipse/jgit/junit/LocalDiskRepositoryTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/src/org/eclipse/jgit/junit/MockSystemReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/src/org/eclipse/jgit/junit/Repeat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/src/org/eclipse/jgit/junit/RepeatRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/src/org/eclipse/jgit/junit/RepositoryTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/src/org/eclipse/jgit/junit/StrictWorkMonitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/src/org/eclipse/jgit/junit/TestRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/src/org/eclipse/jgit/junit/TestRng.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit/src/org/eclipse/jgit/junit/time/MonotonicFakeClock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.mylyn.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/org.eclipse.jgit.lfs.server.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/tst/org/eclipse/jgit/lfs/server/fs/CheckoutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/tst/org/eclipse/jgit/lfs/server/fs/DownloadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/tst/org/eclipse/jgit/lfs/server/fs/LfsServerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/tst/org/eclipse/jgit/lfs/server/fs/PushTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/tst/org/eclipse/jgit/lfs/server/fs/UploadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/org.eclipse.jgit.lfs.server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/org.eclipse.jgit.lfs.server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.mylyn.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/org.eclipse.jgit.lfs.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/src/org/eclipse/jgit/lfs/test/LongObjectIdTestUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/tst/org/eclipse/jgit/lfs/lib/AbbreviatedLongObjectIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/tst/org/eclipse/jgit/lfs/lib/LFSPointerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/tst/org/eclipse/jgit/lfs/lib/LfsPointerFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/tst/org/eclipse/jgit/lfs/lib/LongObjectIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/tst/org/eclipse/jgit/lfs/lib/MutableLongObjectIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/.settings/org.eclipse.mylyn.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/exttst/org/eclipse/jgit/ignore/CGitVsJGitRandomIgnorePatternTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/exttst/org/eclipse/jgit/patch/EGitPatchHistoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/exttst/org/eclipse/jgit/treewalk/FileTreeIteratorPerformanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/org.eclipse.jgit.core--All-Tests (Java 8) (de).launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/org.eclipse.jgit.core--All-Tests (Java 8).launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/org.eclipse.jgit.core--All-Tests.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/org.eclipse.jgit.test-WalkEncryptionTest-Proxy.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/org.eclipse.jgit.test-WalkEncryptionTest.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/org.eclipse.jgit.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_dsa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_dsa.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_dsa_testpass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_dsa_testpass.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_256" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_256.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_256_testpass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_256_testpass.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_384" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_384.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_384_testpass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_384_testpass.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_521" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_521.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_521_testpass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ecdsa_521_testpass.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ed25519" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ed25519.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ed25519_testpass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_ed25519_testpass.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_1024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_1024.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_1024_testpass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_1024_testpass.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_2048" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_2048.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_2048_testpass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_2048_testpass.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_3072" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_3072.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_3072_testpass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_3072_testpass.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_4096" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_4096.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_4096_testpass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/resources/org/eclipse/jgit/transport/ssh/id_rsa_4096_testpass.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/src/org/eclipse/jgit/events/ChangeRecorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/src/org/eclipse/jgit/lib/Sets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/src/org/eclipse/jgit/transport/ssh/SshTestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/src/org/eclipse/jgit/transport/ssh/SshTestHarness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tests.bzl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/META-INF/services/org.eclipse.jgit.transport.Transport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/jgit-s3-config.disabled.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/jgit-s3-config.policy.bucket.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/jgit-s3-config.policy.user.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/jgit-s3-connection-v-0.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/jgit-s3-connection-v-1.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/jgit-s3-connection-v-2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/attributes/merge/disabled_checked.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/attributes/merge/enabled_checked.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/A1.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/A1_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/A1_sub.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/A2.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/A2_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/D.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/D_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/E.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/E_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/E_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/F1.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/F1_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/F2.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/F2_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/M1.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/M1_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/M2.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/M2_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/M2_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/M3.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/M3_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/M3_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NL1.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NL1_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NL1_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCII.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCII2.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCII2_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCII2_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCIIAdd.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCIIAdd2.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCIIAdd2_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCIIAdd_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCIIAdd_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCIIDel.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCIIDel_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCII_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/NonASCII_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/W.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/W_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/W_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/X.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/X_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/X_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/Y.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/Y_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/Y_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/Z.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/Z_PostImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/Z_PreImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/testContext0.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/testContext1.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/testContext10.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/testContext100.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/testContext3.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/diff/testContext5.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/indexdiff/filerepo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/nls/GermanTranslatedBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/nls/GermanTranslatedBundle_de.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/nls/MissingPropertyBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/nls/NonTranslatedBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testEditList_Types.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testError_BodyTooLong.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testError_CcTruncatedOld.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testError_DisconnectedHunk.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testError_GarbageBetweenFiles.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testError_GitBinaryNoForwardHunk.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testError_TruncatedNew.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testError_TruncatedOld.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testGetText_BothISO88591.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testGetText_Convert.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testGetText_DiffCc.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testGetText_NoBinary.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testParse_AddNoNewline.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testParse_CcDeleteFile.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testParse_CcNewFile.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testParse_ConfigCaseInsensitive.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testParse_FixNoNewline.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testParse_GitBinaryDelta.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testParse_GitBinaryLiteral.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testParse_NoBinary.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/patch/testParse_OneFileCc.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/all_packed_objects.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/create-second-pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/dircache.testRemovedSubtree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/excludeTest/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/excludeTest/src/test.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/gitgit.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/gitgit.index.ZZZZ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/gitgit.index.aaaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/gitgit.index.badchecksum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/gitgit.index.v3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/gitgit.lsfiles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/gitgit.lstree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-3280af9c07ee18a87705ef50b0cc4cd20266cf12.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-3280af9c07ee18a87705ef50b0cc4cd20266cf12.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-34be9032ac282b11fa9babdc2b2a93ca996c9c2f.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-34be9032ac282b11fa9babdc2b2a93ca996c9c2f.idxV2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-34be9032ac282b11fa9babdc2b2a93ca996c9c2f.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-546ff360fe3488adb20860ce3436a2d6373d2796.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-546ff360fe3488adb20860ce3436a2d6373d2796.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-9fb5b411fe6dfa89cc2e6b89d2bd8e5de02b5745.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-9fb5b411fe6dfa89cc2e6b89d2bd8e5de02b5745.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-cbdeda40019ae0e6e789088ea0f51f164f489d14.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-cbdeda40019ae0e6e789088ea0f51f164f489d14.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-df2982f284bbabb6bdb59ee3fcc6eb0983e20371.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-df2982f284bbabb6bdb59ee3fcc6eb0983e20371.idxV2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-df2982f284bbabb6bdb59ee3fcc6eb0983e20371.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-e6d07037cbcf13376308a0a995d1fa48f8f76aaa.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-e6d07037cbcf13376308a0a995d1fa48f8f76aaa.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/pack-huge.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/test/resources/packed-refs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/util/sha1/shattered-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst-rsrc/org/eclipse/jgit/util/sha1/shattered-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/AbstractRemoteCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/AddCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/ApplyCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/ArchiveCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/BlameCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/BranchCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/CheckoutCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/CherryPickCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/CleanCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/CloneCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/CommitAndLogCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/CommitCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/CommitOnlyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/CrLfNativeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/DescribeCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/DiffCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/EolRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/EolStreamTypeUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/FetchAndPullCommandsRecurseSubmodulesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/FetchCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/GarbageCollectCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/GitConstructionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/HugeFileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/InitCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/LogCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/LsRemoteCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/MergeCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/NameRevCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/NotesCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/PathCheckoutCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/PullCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/PullCommandWithRebaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/PushCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/RebaseCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/ReflogCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/RemoteAddCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/RemoteDeleteCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/RemoteListCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/RemoteSetUrlCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/RenameBranchCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/ResetCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/RevertCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/RmCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/StashApplyCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/StashCreateCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/StashDropCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/StashListCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/StatusCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/TagCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/api/blame/BlameGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/attributes/AttributeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/attributes/AttributesHandlerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/attributes/AttributesMatcherTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/attributes/AttributesNodeDirCacheIteratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/attributes/AttributesNodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/attributes/AttributesNodeWorkingTreeIteratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/attributes/CGitAttributesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/attributes/TreeWalkAttributeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/attributes/merge/MergeGitAttributeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/AbstractDiffTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/DiffEntryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/DiffFormatterReflowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/DiffFormatterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/EditListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/EditTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/HistogramDiffTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/MyersDiffTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/PatchIdDiffFormatterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/RawTextIgnoreAllWhitespaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/RawTextIgnoreLeadingWhitespaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/RawTextIgnoreTrailingWhitespaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/RawTextIgnoreWhitespaceChangeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/RawTextLoadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/RawTextTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/RenameDetectorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/diff/SimilarityIndexTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/dircache/DirCacheBasicTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/dircache/DirCacheBuilderIteratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/dircache/DirCacheBuilderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/dircache/DirCacheCGitCompatabilityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/dircache/DirCacheEntryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/dircache/DirCacheFindTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/dircache/DirCacheIteratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/dircache/DirCacheLargePathTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/dircache/DirCachePathEditTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/dircache/DirCacheTreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/events/ConfigChangeEventTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/fnmatch/FileNameMatcherTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/gitrepo/ManifestParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/gitrepo/RepoCommandSymlinkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/gitrepo/RepoCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/ignore/BasicRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/ignore/CGitIgnoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/ignore/FastIgnoreRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/ignore/IgnoreMatcherParametrizedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/ignore/IgnoreNodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/ignore/IgnoreRuleSpecialCasesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/ignore/internal/StringsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/indexdiff/IndexDiffWithSymlinkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/dfs/DeltaBaseCacheTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/dfs/DfsBlockCacheConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/dfs/DfsBlockCacheTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/dfs/DfsFsckTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/dfs/DfsGarbageCollectorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/dfs/DfsInserterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/dfs/DfsPackCompacterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/dfs/DfsPackDescriptionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/dfs/PackSourceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/AbbreviationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/AlternatesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/AutoGcTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/BatchRefUpdateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/ConcurrentRepackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/DescriptionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/FileRepositoryBuilderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/FileSnapshotTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcBasicPackingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcBranchPrunedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcConcurrentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcDeleteEmptyRefsFoldersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcDirCacheSavesObjectsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcKeepFilesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcOrphanFilesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcPackRefsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcPruneNonReferencedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcReflogTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcTagTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcTemporaryFilesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/GcTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/InflatingBitSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/LockFileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/ObjectDirectoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/PackFileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/PackIndexTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/PackIndexV1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/PackIndexV2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/PackInserterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/PackReverseIndexTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/PackWriterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/RefDirectoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/RefUpdateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/ReflogReaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/ReflogWriterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/RepositorySetupWorkDirTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/StoredBitmapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/T0003_BasicTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/T0004_PackReaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/UnpackedObjectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/WindowCacheGetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/WindowCacheReconfigureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/file/XInputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/pack/DeltaIndexTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/pack/GcCommitSelectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/pack/IntSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/pack/PackWriterBitmapPreparerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/reftable/MergedReftableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/reftable/ReftableCompactorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/reftable/ReftableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/reftree/LocalDiskRefTreeDatabaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/reftree/RefTreeDatabaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/storage/reftree/RefTreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/internal/transport/parser/FirstWantTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/junit/TestRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/AbbreviatedObjectIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/BranchConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/BranchTrackingStatusTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ConstantsEncodingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/DirCacheCheckoutMaliciousPathTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/DirCacheCheckoutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/DirCacheCheckoutTestWithSymlinks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/GpgConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/HugeCommitMessageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/IndexDiffSubmoduleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/IndexDiffTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/IndexModificationTimesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/MergeHeadMsgTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ObjectCheckerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ObjectIdOwnerMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ObjectIdRefTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ObjectIdSerializerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ObjectIdSubclassMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ObjectIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ObjectLoaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/RacyGitTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/RefDatabaseConflictingNamesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/RefTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ReflogConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ReflogResolveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/RepositoryCacheConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/RepositoryCacheTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/RepositoryResolveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/SquashCommitMsgTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/SubmoduleConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/SymbolicRefTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/T0001_PersonIdentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ThreadSafeProgressMonitorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/ValidRefNameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/empty.gitindex.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/lib/sorttest.gitindex.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/merge/CherryPickTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/merge/CrissCrossMergeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/merge/MergeAlgorithmTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/merge/MergeMessageFormatterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/merge/MergerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/merge/SimpleMergeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/merge/SquashMessageFormatterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/nls/GermanTranslatedBundle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/nls/MissingPropertyBundle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/nls/NLSTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/nls/NoPropertiesBundle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/nls/NonTranslatedBundle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/nls/RootLocaleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/nls/TranslationBundleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/notes/DefaultNoteMergerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/notes/LeafBucketTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/notes/NoteMapMergerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/notes/NoteMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/patch/EditListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/patch/FileHeaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/patch/GetTextTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/patch/PatchCcErrorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/patch/PatchCcTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/patch/PatchErrorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/patch/PatchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revplot/AbstractPlotRendererTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revplot/PlotCommitListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/AlwaysEmptyRevQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/DateRevQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/FIFORevQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/FooterLineTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/LIFORevQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/MaxCountRevFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/ObjectWalkFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/ObjectWalkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevCommitListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevCommitParseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevFlagSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevObjectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevQueueTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevTagParseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkCarryFlagsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkCullTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkFollowFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkMergeBaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkMergedIntoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkPathFilter1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkPathFilter6012Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkResetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkShallowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkUtilsCountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/RevWalkUtilsReachableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/SkipRevFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/revwalk/TreeRevFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/storage/file/FileBasedConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/submodule/SubmoduleAddTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/submodule/SubmoduleDeinitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/submodule/SubmoduleInitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/submodule/SubmoduleStatusTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/submodule/SubmoduleSyncTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/submodule/SubmoduleUpdateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/submodule/SubmoduleWalkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/symlinks/SymlinksTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/test/resources/SampleDataRepositoryTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/AtomicPushTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/BaseReceivePackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/BundleWriterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/DaemonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/HMACSHA1NonceGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/HttpAuthTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/HttpConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/HttpConfigUriPathTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/JSchSshTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/JschConfigSessionFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/NetRCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/ObjectIdMatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/OpenSshConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/PackParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/PacketLineInTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/PacketLineOutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/ProtocolV0ParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/ProtocolV2ParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/PushCertificateIdentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/PushCertificateParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/PushCertificateStoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/PushConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/PushConnectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/PushOptionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/PushProcessTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/ReceivePackAdvertiseRefsHookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/RefAdvertiserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/RefSpecTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/RemoteConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/SideBandOutputStreamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/SpiTransport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/TestProtocolTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/TransportTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/URIishTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/UploadPackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/WalkEncryptionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/transport/http/JDKHttpConnectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/AbstractTreeIteratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/CanonicalTreeParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/EmptyTreeIteratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/FileTreeIteratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/FileTreeIteratorWithTimeControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/ForPathTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/NameConflictTreeWalkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/PostOrderTreeWalkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/TreeWalkBasicDiffTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/TreeWalkJava7Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/filter/AlwaysCloneTreeFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/filter/IndexDiffFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/filter/InterIndexDiffFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/filter/NotTreeFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/filter/PathFilterGroupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/filter/PathFilterLogicTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/filter/PathSuffixFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/treewalk/filter/TreeFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/Base64Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/BlockListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/CPUTimeStopWatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/ChangeIdUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/FSTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/FileUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/FilterCommandsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/GitDateFormatterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/GitDateParserBadlyFormattedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/GitDateParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/HookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/IOReadLineTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/IntListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/LongMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/NBTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/PathsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/QuotedStringBourneStyleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/QuotedStringBourneUserPathStyleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/QuotedStringGitPathStyleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RawCharUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RawParseUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RawParseUtils_FormatTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RawParseUtils_HexParseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RawParseUtils_LineMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RawParseUtils_MatchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RawParseUtils_ParsePersonIdentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RawSubStringPatternTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/ReadLinesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RefListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RefMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RelativeDateFormatterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/RunExternalScriptTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/StringUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/TemporaryBufferTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/io/AutoCRLFInputStreamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/io/AutoCRLFOutputStreamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/io/AutoLFInputStreamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/io/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/io/TimeoutInputStreamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/io/TimeoutOutputStreamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/io/UnionInputStreamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/tst/org/eclipse/jgit/util/sha1/SHA1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/.settings/org.eclipse.mylyn.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/org.eclipse.jgit.ui.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/resources/org/eclipse/jgit/awtui/UIText.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/src/org/eclipse/jgit/awtui/AWTPlotRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/src/org/eclipse/jgit/awtui/AwtAuthenticator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/src/org/eclipse/jgit/awtui/AwtCredentialsProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/src/org/eclipse/jgit/awtui/CommitGraphPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/src/org/eclipse/jgit/awtui/SwingCommitList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.ui/src/org/eclipse/jgit/awtui/UIText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="f2yxwhoo" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nZOEZUm38Jl0JHz9JvHuxrVl9J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c524f239-5e9d-4d45-b66c-2e9c611eec79" name="Default Changelist" comment="" />
+      <created>1611594036970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611594036970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="349" key="GridCell.Tab.0.bottom" timestamp="1611604550807">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="349" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611604550807" />
+    <state width="1878" height="349" key="GridCell.Tab.0.center" timestamp="1611604550804">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="349" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611604550804" />
+    <state width="1878" height="349" key="GridCell.Tab.0.left" timestamp="1611604550803">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="349" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611604550803" />
+    <state width="1878" height="349" key="GridCell.Tab.0.right" timestamp="1611604550805">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="349" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611604550805" />
+    <state x="2290" y="202" key="Maven.ArtifactSearchDialog" timestamp="1611594688517">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2290" y="202" key="Maven.ArtifactSearchDialog/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611594688517" />
+    <state x="2459" y="295" width="586" height="490" key="find.popup" timestamp="1611604408238">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2459" y="295" width="586" height="490" key="find.popup/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611604408238" />
+  </component>
+</project>

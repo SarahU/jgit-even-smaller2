@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.jgit:org.eclipse.jgit.junit:5.3.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org.eclipse.jgit.junit/pom.xml!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/org.eclipse.jgit.junit/org.eclipse.jgit.junit-5.3.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/org.eclipse.jgit.junit/org.eclipse.jgit.junit-5.3.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

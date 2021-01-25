@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jgit/org.eclipse.jgit.iml" filepath="$PROJECT_DIR$/org.eclipse.jgit/org.eclipse.jgit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jgit-parent.iml" filepath="$PROJECT_DIR$/org.eclipse.jgit-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jgit.junit.http/org.eclipse.jgit.junit.http.iml" filepath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/org.eclipse.jgit.junit.http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/org.eclipse.jgit.junit.ssh.iml" filepath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/org.eclipse.jgit.junit.ssh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jgit.lfs/org.eclipse.jgit.lfs.iml" filepath="$PROJECT_DIR$/org.eclipse.jgit.lfs/org.eclipse.jgit.lfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jgit.lfs.server/org.eclipse.jgit.lfs.server.iml" filepath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/org.eclipse.jgit.lfs.server.iml" />
+    </modules>
+  </component>
+</project>
